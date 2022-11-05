@@ -2,8 +2,8 @@
 
 This is an assignment app from Rootally AI
 
-Architecture: MVVM
-State Management: GetX
+Architecture: MVVM\
+State Management: GetX\
 Backend: Firebase Realtime Database
 
 ## App Preview
