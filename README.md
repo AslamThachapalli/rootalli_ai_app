@@ -1,7 +1,5 @@
 # rootalli_ai_app
 
-This is an assignment app from Rootally AI
-
 Architecture: MVVM\
 State Management: GetX\
 Backend: Firebase Realtime Database
